@@ -3,7 +3,7 @@
 # Overview
 The purpose of this code was to find out which county has the largest count of votes with other factors
 such as read, write and store data from files/arrays and decision statements with logical operations
-for precise results.
+for precise results. The goal was to extract results from individual candidates, counties and winning results.
 
 # Data Results
 * There were a total of 369,711 Votes
